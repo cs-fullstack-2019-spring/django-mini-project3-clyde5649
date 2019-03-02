@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: Come on Buddy. No create, update, delete to be found, and I know you get it. srry
+
 # Mini-Project Django
 
 THIS IS A SOLO PROJECT.
